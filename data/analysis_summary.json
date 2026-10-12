@@ -1,0 +1,43 @@
+{
+  "total_sample_reviews": 1778,
+  "sample_average_rating": 3.07,
+  "total_negative_reviews": 804,
+  "total_positive_reviews": 876,
+  "negative_percentage": 45.22,
+  "rating_distribution": {
+    "1": 693,
+    "2": 111,
+    "3": 98,
+    "4": 133,
+    "5": 743
+  },
+  "top_complaint_categories": [
+    {
+      "issue_category": "App Stability, Crashes & Login",
+      "neg_reviews": 195,
+      "neg_percentage": 75.3
+    },
+    {
+      "issue_category": "GPS Accuracy & Live Tracking",
+      "neg_reviews": 133,
+      "neg_percentage": 59.4
+    },
+    {
+      "issue_category": "Driver Behavior & Coordination",
+      "neg_reviews": 97,
+      "neg_percentage": 64.2
+    },
+    {
+      "issue_category": "Booking & Schedule Management",
+      "neg_reviews": 94,
+      "neg_percentage": 63.9
+    },
+    {
+      "issue_category": "ETA Accuracy & Delays",
+      "neg_reviews": 88,
+      "neg_percentage": 74.6
+    }
+  ],
+  "date_min": "2018-09-14 04:40:46",
+  "date_max": "2026-10-11 11:45:45"
+}

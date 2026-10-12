@@ -1,0 +1,12 @@
+issue_category,total_reviews,avg_rating,neg_reviews,pos_reviews,critical_count,neg_percentage
+"App Stability, Crashes & Login",259,1.8532818532818534,195,38,164,75.3
+GPS Accuracy & Live Tracking,224,2.4375,133,73,113,59.4
+General / Unclassified,743,4.390309555854643,102,631,0,13.7
+Driver Behavior & Coordination,151,2.205298013245033,97,40,0,64.2
+Booking & Schedule Management,147,2.2108843537414966,94,38,0,63.9
+ETA Accuracy & Delays,118,1.8983050847457628,88,20,77,74.6
+Support & Complaint Resolution,38,1.6842105263157894,31,6,0,81.6
+Route Optimization & Detours,24,1.7083333333333333,19,3,0,79.2
+"Boarding, OTP & Attendance/No-Show",21,1.4761904761904763,18,2,16,85.7
+Notification & Alerting,23,1.9130434782608696,18,5,0,78.3
+Ratings Pop-up & UX Friction,30,3.533333333333333,9,20,0,30.0
